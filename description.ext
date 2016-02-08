@@ -1,0 +1,117 @@
+author = "$(dingus)";
+
+class CfgIdentities {
+
+  //repair
+  class cls_armstrong {
+    name = "Armstrong";
+    nameSound = "Armstrong";
+    face = "AfricanHead_01";
+    glasses = "None";
+    speaker = "Male08ENG";
+    pitch = 1.00;
+  };
+
+  //medic
+  class cls_larkin {
+    name = "Larkin";
+    nameSound = "Larkin";
+    face = "AfricanHead_03";
+    glasses = "None";
+    speaker = "Male12ENG";
+    pitch = 1.00;
+  };
+
+  //autorifleman
+  class cls_jackson {
+    name = "Jackson";
+    nameSound = "Jackson";
+    face = "AfricanHead_02";
+    glasses = "None";
+    speaker = "Male02ENG";
+    pitch = 1.00;
+  };
+
+  //light rifleman
+  class cls_adams {
+    name = "Adams";
+    nameSound = "Adams";
+    face = "WhiteHead_08";
+    glasses = "None";
+    speaker = "Male04ENG";
+    pitch = 1.00;
+  };
+
+  //rifleman
+  class cls_bennett {
+    name = "Bennett";
+    nameSound = "Bennett";
+    face = "WhiteHead_14";
+    glasses = "None";
+    speaker = "Male07ENG";
+    pitch = 1.00;
+  };
+
+  //Explosives
+  class cls_campbell {
+    name = "Campbell";
+    nameSound = "Campbell";
+    face = "WhiteHead_07";
+    glasses = "None";
+    speaker = "Male10ENG";
+    pitch = 1.00;
+  };
+
+  //sharpshooter
+  class cls_martinez {
+    name = "Martinez";
+    nameSound = "Martinez";
+    face = "WhiteHead_17";
+    glasses = "None";
+    speaker = "Male09ENG";
+    pitch = 1.00;
+  };
+
+  //leader
+  class cls_mckendrick {
+    name = "McKendrick";
+    nameSound = "McKendrick";
+    face = "WhiteHead_20";
+    glasses = "None";
+    speaker = "Male03ENG";
+    pitch = 1.00;
+  };
+
+  //autorifleman
+  class cls_miller {
+    name = "Miller";
+    nameSound = "Miller";
+    face = "WhiteHead_03";
+    glasses = "None";
+    speaker = "Male01ENG";
+    pitch = 1.00;
+  };
+
+  //at soldier
+  class cls_taylor {
+    name = "Taylor";
+    nameSound = "Taylor";
+    face = "WhiteHead_15";
+    glasses = "None";
+    speaker = "Male12ENG";
+    pitch = 1.50;
+  };
+
+  //ammo bearer
+  class cls_levine {
+    name = "Levine";
+    nameSound = "Levine";
+    face = "WhiteHead_18";
+    glasses = "None";
+    speaker = "Male06";
+    pitch = 1.00;
+  };
+
+
+
+};

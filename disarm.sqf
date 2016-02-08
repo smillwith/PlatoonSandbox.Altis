@@ -1,11 +1,10 @@
 class = typeOf player;
 _EXPLO = _this select 0;
-
-if(class == "B_Soldier_Exp_F") then {
+hint formatText ["%1", class];
+if(class == "US_Soldier_Engineer_EP1") then {
   player playmove "AinvPknlMstpSlayWrflDnon_medic"; 
   sleep 9;
   deletevehicle _EXPLO;
-  bombdifused = 1;
 }
 else { 
     player playmove "AinvPknlMstpSlayWrflDnon_medic";
